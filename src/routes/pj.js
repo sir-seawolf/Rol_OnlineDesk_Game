@@ -17,7 +17,7 @@ router.post('/', (req, res) => {
     const { game, user, pjs } = req.body;
     if (game && user && pjs) {
         const id = personajes.length + 1;
-        const newPersonaje = {id, ...req.body}; 
+        const newPersonaje = {...req.body, id}; 
         //console.log(newPersonaje);
         res.json(personajes);
         personajes.push(newPersonaje);

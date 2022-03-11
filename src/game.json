@@ -1,18 +1,20 @@
-[{
-    "id": "1",
-    "game": "Exile s path",
-    "user": "Miguel Pascual",
-    "pjs": "Combatiente"
-},
-{
-    "id": "2",
-    "game": "Exile s path",
-    "user": "Miguel Pascual",
-    "pjs": "Combatiente"
-},
-{
-    "id": "3",
-    "game": "Exile s path",
-    "user": "Miguel Pascual",
-    "pjs": "Combatiente"
-}]
+[
+    {
+        "id": "1",
+        "game": "Exile s path",
+        "user": "Miguel Pascual",
+        "pjs": "Combatiente"
+    },
+    {
+        "id": "2",
+        "game": "Exile s path",
+        "user": "Miguel Pascual",
+        "pjs": "Combatiente"
+    },
+    {
+        "id": "3",
+        "game": "Exile s path",
+        "user": "Miguel Pascual",
+        "pjs": "Combatiente"
+    }
+]
