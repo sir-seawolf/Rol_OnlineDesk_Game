@@ -1,0 +1,471 @@
+[
+    {
+        "id": "1",
+        "game": "Exile s path",
+        "user": "Miguel Pascual",
+        "pjs": [
+            {
+                "pj_name": "Sir-Seawolf",
+                "race": "Human",
+                "epic": "madera de heroe",
+                "mental_h": "65",
+                "ore": {
+                    "civil": "2",
+                    "fighter": "2",
+                    "initiated": "1"
+                },
+                "class": {
+                    "civil": "2",
+                    "fighter": "2",
+                    "tech_specialist": "1",
+                    "initiated": "1"
+                },
+                "attributes": {
+                    "mental": {
+                        "charisma": "2",
+                        "perception": "2",
+                        "intelligence": "1",
+                        "will": "2"
+                    },
+                    "physical": {
+                        "agility": "2",
+                        "constitution": "2",
+                        "strength": "1",
+                        "dexterity": "2"
+                    },
+                    "skills": {
+                        "academicas": {
+                            "Ciencias": "20",
+                            "Biotecnología": "20",
+                            "Navegación": "20",
+                            "Burocracia": "20",
+                            "Buscar información": "20",
+                            "Programación": "20",
+                            "Diagnóstico": "20",
+                            "Esconderse/Evadirse": "20",
+                            "Investigación": "20",
+                            "Juego": "20",
+                            "Diseño Hardware": "20",
+                            "Sentido del Negocio": "20",
+                            "Supervivencia": "20",
+                            "Vigilar/Rastrear": "20",
+                            "Conocimiento corporaciones": "20",
+                            "Docencia": "20"
+                        },
+                        "atleticas": {
+                            "acrobacias": "20",
+                            "conduccion": "20",
+                            "Resistencia_tort_drog": "20",
+                            "proezas_fis": "20",
+                            "pilotar": "20",
+                            "trajes_servo": "20",
+                            "sigilo": "20"
+                        },
+                        "tecnologicas": {
+                            "armeria": "20",
+                            "cyber_tech": "20",
+                            "Demoliciones": "20",
+                            "falsificacion": "20",
+                            "quimica": "20",
+                            "seguridad": "20",
+                            "mecanica": "20",
+                            "first_aid": "20",
+                            "manos-agiles": "20",
+                            "disfraz": "20",
+                            "meditacion": "20"
+                        },
+                        "sociales": {
+                            "absorcion": "20",
+                            "autocontrol": "20",
+                            "bajos_fondos": "20",
+                            "empatia": "20",
+                            "interrogatorio": "20",
+                            "liderazgo": "20",
+                            "manejo_animales": "20",
+                            "persuasion": "20",
+                            "seduccion": "20",
+                            "estilo": "20"
+                        },
+                        "combat": {
+                            "sin_armas": "20",
+                            "armas_cc": "20",
+                            "distancia": "20",
+                            "iniciativa": "20",
+                            "alerta": "20",
+                            "esquivar": "20"
+                        },
+                        "stamina": " "
+                    },
+                    "dist_sk": {
+                        "sorcery": {},
+                        "dist_master": {},
+                        "runic_master": {}
+                    }
+                },
+                "merit_deft": {
+                    "visionario": true,
+                    "furia": false,
+                    "ola_adrenalina": false,
+                    "belleza_peligrosa": false,
+                    "vision_oscura": false,
+                    "sensible_dist": false,
+                    "gato_curioso": false,
+                    "rata_navio": false,
+                    "coyote_pradera": false,
+                    "grande": false,
+                    "pequeno": false
+                },
+                "equipamiento": {
+                    "armor": {
+                        "head": "2",
+                        "torso": "2",
+                        "arms": "2",
+                        "legs": "2",
+                        "armor_dist": "1"
+                    },
+                    "weapon": {
+                        "principal": "2",
+                        "secundaria": "2",
+                        "arrojadiza": "2",
+                        "repuesto": "2"
+                    },
+                    "miscelaneo": {
+                        "item1": "2",
+                        "item2": "2",
+                        "item3": "2",
+                        "item4": "2",
+                        "mision1": "2",
+                        "mision2": "2",
+                        "mision3": "2",
+                        "mision4": "2"
+                    },
+                    "vivienda": [
+                        "2",
+                        true
+                    ],
+                    "vehiculo": [
+                        "2",
+                        true
+                    ],
+                    "nave": [
+                        "2",
+                        true
+                    ]
+            }
+            }
+    ]
+},
+{
+    "id": "2",
+    "game": "Exile s path",
+    "user": "Miguel Pascual",
+    "pjs": [
+        {
+            "pj_name": "Azrael",
+            "race": "Human",
+            "epic": "madera de heroe",
+            "mental_h": "65",
+            "ore": {
+                "civil": "2",
+                "fighter": "2",
+                "initiated": "1"
+            },
+            "class": {
+                "civil": "2",
+                "fighter": "2",
+                "tech_specialist": "1",
+                "initiated": "1"
+            },
+            "attributes": {
+                "mental": {
+                    "charisma": "2",
+                    "perception": "2",
+                    "intelligence": "1",
+                    "will": "2"
+                },
+                "physical": {
+                    "agility": "2",
+                    "constitution": "2",
+                    "strength": "1",
+                    "dexterity": "2"
+                },
+                "skills": {
+                    "academicas": {
+                        "Ciencias": "20",
+                        "Biotecnología": "20",
+                        "Navegación": "20",
+                        "Burocracia": "20",
+                        "Buscar información": "20",
+                        "Programación": "20",
+                        "Diagnóstico": "20",
+                        "Esconderse/Evadirse": "20",
+                        "Investigación": "20",
+                        "Juego": "20",
+                        "Diseño Hardware": "20",
+                        "Sentido del Negocio": "20",
+                        "Supervivencia": "20",
+                        "Vigilar/Rastrear": "20",
+                        "Conocimiento corporaciones": "20",
+                        "Docencia": "20"
+                    },
+                    "atleticas": {
+                        "acrobacias": "20",
+                        "conduccion": "20",
+                        "Resistencia_tort_drog": "20",
+                        "proezas_fis": "20",
+                        "pilotar": "20",
+                        "trajes_servo": "20",
+                        "sigilo": "20"
+                    },
+                    "tecnologicas": {
+                        "armeria": "20",
+                        "cyber_tech": "20",
+                        "Demoliciones": "20",
+                        "falsificacion": "20",
+                        "quimica": "20",
+                        "seguridad": "20",
+                        "mecanica": "20",
+                        "first_aid": "20",
+                        "manos-agiles": "20",
+                        "disfraz": "20",
+                        "meditacion": "20"
+                    },
+                    "sociales": {
+                        "absorcion": "20",
+                        "autocontrol": "20",
+                        "bajos_fondos": "20",
+                        "empatia": "20",
+                        "interrogatorio": "20",
+                        "liderazgo": "20",
+                        "manejo_animales": "20",
+                        "persuasion": "20",
+                        "seduccion": "20",
+                        "estilo": "20"
+                    },
+                    "combat": {
+                        "sin_armas": "20",
+                        "armas_cc": "20",
+                        "distancia": "20",
+                        "iniciativa": "20",
+                        "alerta": "20",
+                        "esquivar": "20"
+                    },
+                    "stamina": " "
+                },
+                "dist_sk": {
+                    "sorcery": {},
+                    "dist_master": {},
+                    "runic_master": {}
+                }
+            },
+            "merit_deft": {
+                "visionario": true,
+                "furia": false,
+                "ola_adrenalina": false,
+                "belleza_peligrosa": false,
+                "vision_oscura": false,
+                "sensible_dist": false,
+                "gato_curioso": false,
+                "rata_navio": false,
+                "coyote_pradera": false,
+                "grande": false,
+                "pequeno": false
+            },
+            "equipamiento": {
+                "armor": {
+                    "head": "2",
+                    "torso": "2",
+                    "arms": "2",
+                    "legs": "2",
+                    "armor_dist": "1"
+                },
+                "weapon": {
+                    "principal": "2",
+                    "secundaria": "2",
+                    "arrojadiza": "2",
+                    "repuesto": "2"
+                },
+                "miscelaneo": {
+                    "item1": "2",
+                    "item2": "2",
+                    "item3": "2",
+                    "item4": "2",
+                    "mision1": "2",
+                    "mision2": "2",
+                    "mision3": "2",
+                    "mision4": "2"
+                },
+                "vivienda": [
+                    "2",
+                    true
+                ],
+                "vehiculo": [
+                    "2",
+                    true
+                ],
+                "nave": [
+                    "2",
+                    true
+                ]
+        }
+        }
+]
+},
+{
+    "id": "3",
+    "game": "Exile s path",
+    "user": "Miguel Pascual",
+    "pjs": [
+        {
+            "pj_name": "Ladino",
+            "race": "Human",
+            "epic": "madera de heroe",
+            "mental_h": "65",
+            "ore": {
+                "civil": "2",
+                "fighter": "2",
+                "initiated": "1"
+            },
+            "class": {
+                "civil": "2",
+                "fighter": "2",
+                "tech_specialist": "1",
+                "initiated": "1"
+            },
+            "attributes": {
+                "mental": {
+                    "charisma": "2",
+                    "perception": "2",
+                    "intelligence": "1",
+                    "will": "2"
+                },
+                "physical": {
+                    "agility": "2",
+                    "constitution": "2",
+                    "strength": "1",
+                    "dexterity": "2"
+                },
+                "skills": {
+                    "academicas": {
+                        "Ciencias": "20",
+                        "Biotecnología": "20",
+                        "Navegación": "20",
+                        "Burocracia": "20",
+                        "Buscar información": "20",
+                        "Programación": "20",
+                        "Diagnóstico": "20",
+                        "Esconderse/Evadirse": "20",
+                        "Investigación": "20",
+                        "Juego": "20",
+                        "Diseño Hardware": "20",
+                        "Sentido del Negocio": "20",
+                        "Supervivencia": "20",
+                        "Vigilar/Rastrear": "20",
+                        "Conocimiento corporaciones": "20",
+                        "Docencia": "20"
+                    },
+                    "atleticas": {
+                        "acrobacias": "20",
+                        "conduccion": "20",
+                        "Resistencia_tort_drog": "20",
+                        "proezas_fis": "20",
+                        "pilotar": "20",
+                        "trajes_servo": "20",
+                        "sigilo": "20"
+                    },
+                    "tecnologicas": {
+                        "armeria": "20",
+                        "cyber_tech": "20",
+                        "Demoliciones": "20",
+                        "falsificacion": "20",
+                        "quimica": "20",
+                        "seguridad": "20",
+                        "mecanica": "20",
+                        "first_aid": "20",
+                        "manos-agiles": "20",
+                        "disfraz": "20",
+                        "meditacion": "20"
+                    },
+                    "sociales": {
+                        "absorcion": "20",
+                        "autocontrol": "20",
+                        "bajos_fondos": "20",
+                        "empatia": "20",
+                        "interrogatorio": "20",
+                        "liderazgo": "20",
+                        "manejo_animales": "20",
+                        "persuasion": "20",
+                        "seduccion": "20",
+                        "estilo": "20"
+                    },
+                    "combat": {
+                        "sin_armas": "20",
+                        "armas_cc": "20",
+                        "distancia": "20",
+                        "iniciativa": "20",
+                        "alerta": "20",
+                        "esquivar": "20"
+                    },
+                    "stamina": " "
+                },
+                "dist_sk": {
+                    "sorcery": {},
+                    "dist_master": {},
+                    "runic_master": {}
+                }
+            },
+            "merit_deft": {
+                "visionario": true,
+                "furia": false,
+                "ola_adrenalina": false,
+                "belleza_peligrosa": false,
+                "vision_oscura": false,
+                "sensible_dist": false,
+                "gato_curioso": false,
+                "rata_navio": false,
+                "coyote_pradera": false,
+                "grande": false,
+                "pequeno": false
+            },
+            "equipamiento": {
+                "armor": {
+                    "head": "2",
+                    "torso": "2",
+                    "arms": "2",
+                    "legs": "2",
+                    "armor_dist": "1"
+                },
+                "weapon": {
+                    "principal": "2",
+                    "secundaria": "2",
+                    "arrojadiza": "2",
+                    "repuesto": "2"
+                },
+                "miscelaneo": {
+                    "item1": "2",
+                    "item2": "2",
+                    "item3": "2",
+                    "item4": "2",
+                    "mision1": "2",
+                    "mision2": "2",
+                    "mision3": "2",
+                    "mision4": "2"
+                },
+                "vivienda": [
+                    "2",
+                    true
+                ],
+                "vehiculo": [
+                    "2",
+                    true
+                ],
+                "nave": [
+                    "2",
+                    true
+                ]
+        }
+        }
+]
+}
+]
+
