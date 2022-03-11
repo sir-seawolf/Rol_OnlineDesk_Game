@@ -4,16 +4,24 @@
   "description": "Usuarios aplicacion y personajes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sir-seawolf/Rol_OnlineDesk_Game.git"
   },
+  "keywords": [],
   "author": "Sir-Seawolf",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sir-seawolf/Rol_OnlineDesk_Game/issues"
   },
-  "homepage": "https://github.com/sir-seawolf/Rol_OnlineDesk_Game#readme"
+  "homepage": "https://github.com/sir-seawolf/Rol_OnlineDesk_Game#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
