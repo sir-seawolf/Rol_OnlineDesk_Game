@@ -1,0 +1,19 @@
+{
+  "name": "usuarios",
+  "version": "1.0.0",
+  "description": "Usuarios aplicacion y personajes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sir-seawolf/Rol_OnlineDesk_Game.git"
+  },
+  "author": "Sir-Seawolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sir-seawolf/Rol_OnlineDesk_Game/issues"
+  },
+  "homepage": "https://github.com/sir-seawolf/Rol_OnlineDesk_Game#readme"
+}
