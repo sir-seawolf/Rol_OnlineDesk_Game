@@ -13,9 +13,10 @@ app.use(morgan('dev'));
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
-//routes
+//routes 
 app.use(require('./routes/index'));
 app.use('/api/pj',require('./routes/pj'));
+app.use('/api/users',require('./routes/users'));
 
 //Starting the server
 app.listen(app.get('port'), () => {

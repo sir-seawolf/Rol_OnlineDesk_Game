@@ -19,7 +19,8 @@
   "homepage": "https://github.com/sir-seawolf/Rol_OnlineDesk_Game#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "underscore": "^1.13.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
